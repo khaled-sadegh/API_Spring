@@ -1,7 +1,6 @@
 package com.example.fichier.model;
 
 public class IdGenerator {
-
     // attribut privé qui fait référence à l'objet
     private static IdGenerator idGenerator = new IdGenerator();
 
